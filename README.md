@@ -45,6 +45,7 @@ Planning for my idea for a site to improve accessibility by providing stories an
 
 ### Disability/mental health
 - Mental health: sites/resources, success stories & meetups for those with mental health disorders/concerns (quite broad)
+- Social: sites/resources, success stories & meetups for those with social anxiety, autism spectrum disorders...
 - Learning disabilities: sites/resources, success stories & meetups for those with learning disabilities (e.g. dyslexia)
 - Physical disabilities: sites/resources, success stories & meetups for those with physical disabilities
 
