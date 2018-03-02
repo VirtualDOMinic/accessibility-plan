@@ -9,7 +9,7 @@ Planning for my idea for a site to improve accessibility by providing stories an
 ## Overview
 - Aim to allay fears of (and provide practical resources for) people who may be hesitant to try coding due to negative stereotypes and/or worries they have about how their experience may be (e.g. sexism, racism) as a dev
 - "Database" of resources (links to communities, courses, stories...) for people listed in the "filtering options" section below
-- Allow people to filter for any/all of the factors putting them off and see a "curated", nicely-formatted list of
+- Allow people to filter for any/all of the factors putting them off and see a "curated", nicely-formatted list of resources
 
 ## Considerations
 - Needs to be accessible
@@ -34,8 +34,8 @@ Planning for my idea for a site to improve accessibility by providing stories an
 
 ## Filtering options, AKA factors that might be discouraging people from coding
 ### Access
-- Language: courses/resources covering a range of languages, English learning resources, stories from successful
-- Location: online resources e.g. MOOCs,
+- Language: courses/resources covering a range of languages, English learning resources (if appropriate), stories from successful devs
+- Location: online resources (e.g. MOOCs) that can be accessed by those based somewhere with few local learning resources. Quite a complex one if we go beyond (e.g. to internet access, travel, visas, etc.)
 - Money: similar to above points, but also links to resources/charities that offer free help or even funding?
 
 ### Gender & sexuality
