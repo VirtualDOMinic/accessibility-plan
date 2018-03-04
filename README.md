@@ -56,3 +56,6 @@ Planning for my idea for a site to improve accessibility by providing stories an
 - Age (young): sites/resources, success stories & meetups for those who think they're too young to learn/get involved
 - Age (old): sites/resources, success stories & meetups for those who think that it's too late to learn
 - "Bad at X" (e.g. "bad at maths"): sites/resources, success stories & meetups for those who think they're not "wired" like a programmer
+- Education: sites/resources, success stories & meetups for those who did an unrelated degree, have no degree, dropped out of school, or have spent a long time away from (formal) education
+
+
