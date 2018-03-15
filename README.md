@@ -8,6 +8,7 @@ Planning for my idea for a site to improve accessibility by providing stories an
 
 ## Overview
 - Aim to allay fears of (and provide practical resources for) people who may be hesitant to try coding due to negative stereotypes and/or worries they have about how their experience may be (e.g. sexism, racism) as a dev
+- "Provide practical resources for" is an important point: want to encourage people but also be realistic about challenges they may face
 - "Database" of resources (links to communities, courses, stories...) for people listed in the "filtering options" section below
 - Allow people to filter for any/all of the factors putting them off and see a "curated", nicely-formatted list of resources
 
@@ -25,12 +26,15 @@ Planning for my idea for a site to improve accessibility by providing stories an
 - Functioning filtering system
 - Enough content to be useful for at least some groups
 - Submission system?
+- Note: make it clear that it's MVP/WIP and that people shouldn't be discouraged if their filtering options come up empty for now
 
 ## Beyond MVP
 - Hosted externally with proper back-end
 - Database and submission system (allow visitors to suggest links/resources or share their own)
 - Cached versions of resources to ensure they're always viewable/mitigate issue of link rot
 - More granular filtering
+- Courses (and resources) rated for accessibility? E.g. subtitles, translations
+- Tailored articles/FAQs produced by us! Implement with a question submission system?
 
 ## Filtering options, AKA factors that might be discouraging people from coding
 ### Access
@@ -40,7 +44,7 @@ Planning for my idea for a site to improve accessibility by providing stories an
 
 ### Gender & sexuality
 - Women: sites/resources, success stories & meetups for women
-- Trans/non-binary: sites/resources, success stories & meetups for trans people
+- Trans/genderqueer/non-binary: sites/resources, success stories & meetups for trans people
 - LGB(T)Q+: sites/resources, success stories & meetups for LGBQ+ people
 
 ### Disability/mental health
