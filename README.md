@@ -1,65 +1,79 @@
 # accessibility-plan
+
 Planning for my idea for a site to improve accessibility by providing stories and resources for people who those who have hurdles to overcome
 
-
 ## Ideas for project name
-- You can code (youCanCode/ucancode)
-- ...none others yet
+
+* You can code (youCanCode/ucancode)
+* ...none others yet
 
 ## Overview
-- Aim to allay fears of (and provide practical resources for) people who may be hesitant to try coding due to negative stereotypes and/or worries they have about how their experience may be (e.g. sexism, racism) as a dev
-- "Provide practical resources for" is an important point: want to encourage people but also be realistic about challenges they may face
-- "Database" of resources (links to communities, courses, stories...) for people listed in the "filtering options" section below
-- Allow people to filter for any/all of the factors putting them off and see a "curated", nicely-formatted list of resources
+
+* Aim to allay fears of (and provide practical resources for) people who may be hesitant to try coding due to negative stereotypes and/or worries they have about how their experience may be (e.g. sexism, racism) as a dev
+* "Provide practical resources for" is an important point: want to encourage people but also be realistic about challenges they may face
+* "Database" of resources (links to communities, courses, stories...) for people listed in the "filtering options" section below
+* Allow people to filter for any/all of the factors putting them off and see a "curated", nicely-formatted list of resources
 
 ## Considerations
-- Needs to be accessible
-- Quite a big scope
-- Think about filtering categories, as some may be too broad
-- Need to make it clear early on that it's in alpha! Don't want people getting discouraged if they don't see (m)any resources come up for them
-- Ensure no accidental use of terms/titles that may be deemed offensive
-- Encourage (and actively seek out) contributions from a broad range of people
+
+* Needs to be accessible
+* Quite a big scope
+* Think about filtering categories, as some may be too broad
+* Need to make it clear early on that it's in alpha! Don't want people getting discouraged if they don't see (m)any resources come up for them
+* Ensure no accidental use of terms/titles that may be deemed offensive
+* Encourage (and actively seek out) contributions from a broad range of people
 
 ## MVP
-- Host on GitHub pages? This would mean no back-end for now
-- Layout/CSS
-- Functioning filtering system
-- Enough content to be useful for at least some groups
-- Submission system?
-- Note: make it clear that it's MVP/WIP and that people shouldn't be discouraged if their filtering options come up empty for now
+
+* Host on GitHub pages? This would mean no back-end for now
+* Layout/CSS
+* Functioning filtering system
+* Enough content to be useful for at least some groups
+* Submission system?
+* Note: make it clear that it's MVP/WIP and that people shouldn't be discouraged if their filtering options come up empty for now
 
 ## Beyond MVP
-- Hosted externally with proper back-end
-- Database and submission system (allow visitors to suggest links/resources or share their own)
-- Cached versions of resources to ensure they're always viewable/mitigate issue of link rot
-- More granular filtering
-- Courses (and resources) rated for accessibility? E.g. subtitles, translations
-- Tailored articles/FAQs produced by us! Implement with a question submission system?
+
+* Hosted externally with proper back-end
+* Database and submission system (allow visitors to suggest links/resources or share their own)
+* Cached versions of resources to ensure they're always viewable/mitigate issue of link rot
+* More granular filtering
+* Courses (and resources) rated for accessibility? E.g. subtitles, translations
+* Tailored articles/FAQs produced by us! Implement with a question submission system?
 
 ## Filtering options, AKA factors that might be discouraging people from coding
+
 ### Access
-- Language: courses/resources covering a range of languages, English learning resources (if appropriate), stories from successful devs
-- Location: online resources (e.g. MOOCs) that can be accessed by those based somewhere with few local learning resources. Quite a complex one if we go beyond (e.g. to internet access, travel, visas, etc.)
-- Money: similar to above points, but also links to resources/charities that offer free help or even funding?
+
+* Language: courses/resources covering a range of languages, English learning resources (if appropriate), stories from successful devs
+* Location: online resources (e.g. MOOCs) that can be accessed by those based somewhere with few local learning resources. Quite a complex one if we go beyond (e.g. to internet access, travel, visas, etc.)
+* Money: similar to above points, but also links to resources/charities that offer free help or even funding?
 
 ### Gender & sexuality
-- Women: sites/resources, success stories & meetups for women
-- Trans/genderqueer/non-binary: sites/resources, success stories & meetups for trans people
-- LGB(T)Q+: sites/resources, success stories & meetups for LGBQ+ people
+
+* Women: sites/resources, success stories & meetups for women
+* Trans/genderqueer/non-binary: sites/resources, success stories & meetups for trans people
+* LGB(T)Q+: sites/resources, success stories & meetups for LGBQ+ people
 
 ### Disability/mental health
-- Mental health: sites/resources, success stories & meetups for those with mental health disorders/concerns (quite broad)
-- Social: sites/resources, success stories & meetups for those with social anxiety, autism spectrum disorders...
-- Learning disabilities: sites/resources, success stories & meetups for those with learning disabilities (e.g. dyslexia)
-- Physical disabilities: sites/resources, success stories & meetups for those with physical disabilities
+
+* Mental health: sites/resources, success stories & meetups for those with mental health disorders/concerns (quite broad)
+* Social: sites/resources, success stories & meetups for those with social anxiety, autism spectrum disorders...
+* Learning disabilities: sites/resources, success stories & meetups for those with learning disabilities (e.g. dyslexia)
+* Physical disabilities: sites/resources, success stories & meetups for those with physical disabilities
 
 ### Race
-- Ethnic minorities: sites/resources, success stories & meetups for people of colour. More granularity would be useful here. 
+
+* Ethnic minorities: sites/resources, success stories & meetups for people of colour. More granularity would be useful here.
 
 ### Other
-- Age (young): sites/resources, success stories & meetups for those who think they're too young to learn/get involved
-- Age (old): sites/resources, success stories & meetups for those who think that it's too late to learn
-- "Bad at X" (e.g. "bad at maths"): sites/resources, success stories & meetups for those who think they're not "wired" like a programmer
-- Education: sites/resources, success stories & meetups for those who did an unrelated degree, have no degree, dropped out of school, or have spent a long time away from (formal) education
 
+* Age (young): sites/resources, success stories & meetups for those who think they're too young to learn/get involved
+* Age (old): sites/resources, success stories & meetups for those who think that it's too late to learn
+* "Bad at X" (e.g. "bad at maths"): sites/resources, success stories & meetups for those who think they're not "wired" like a programmer
+* Education: sites/resources, success stories & meetups for those who did an unrelated degree, have no degree, dropped out of school, or have spent a long time away from (formal) education
+* Refugee-specific resources? E.g. [codeyourfuture](https://codeyourfuture.io), [Refugees on Rails](http://refugeesonrails.org/en/index.html), [Hack Your Future](http://www.hackyourfuture.net)...
 
+### Section for ways to help
+
+* Aside from the submission system, the site could include a place for people to find out ways they can help to improve diversity in tech (e.g. information about [Codebar](https://codebar.io)).
